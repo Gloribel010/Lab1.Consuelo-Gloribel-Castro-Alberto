@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\bin\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.exe
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\bin\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.deps.json
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\bin\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\bin\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\bin\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.pdb
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\refint\LABORATORIO.Consuelo Gloribel Castro Alberto.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.pdb
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\LABORATORIO.Consuelo Gloribel Castro Alberto.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO.Consuelo Gloribel Castro Alberto\LABORATORIO.Consuelo Gloribel Castro Alberto\obj\Debug\net6.0\ref\LABORATORIO.Consuelo Gloribel Castro Alberto.dll
